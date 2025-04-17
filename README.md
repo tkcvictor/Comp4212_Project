@@ -62,18 +62,36 @@ Ensure you have the following installed:
 ### 📂 Installation & Setup
 #### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/
+git clone [https://github.com/](https://github.com/tkcvictor/Comp4212_Project.git)
 cd 
 ```
 #### 2️⃣ Install dependencies
 ```sh
+cd frontend
+npm install
+```
+```sh
+cd backend
+npm install
+```
+```sh
+cd admin
 npm install
 ```
 #### 3️⃣ Start the development server
 ```sh
+For frontend
 npm run dev
 ```
-**OMKDS will now be running at**  (http://localhost:3000/) 🎉
+```sh
+For backend
+npm run server
+```
+```sh
+For admin
+npm run dev
+```
+**OMKDS will now be running at**  (http://localhost:5173/) 🎉
 
 ### 📸 Using CoinPulse
 
