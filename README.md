@@ -62,7 +62,7 @@ Ensure you have the following installed:
 ### 📂 Installation & Setup
 #### 1️⃣ Clone the repository
 ```sh
-git clone [https://github.com/](https://github.com/tkcvictor/Comp4212_Project.git)
+git clone https://github.com/tkcvictor/Comp4212_Project.git
 cd Comp4212_Project
 ```
 #### 2️⃣ Install dependencies
