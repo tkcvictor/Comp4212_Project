@@ -60,10 +60,16 @@ Ensure you have the following installed:
 - **Stripe Account** (for API keys)
 
 ### 📂 Installation & Setup
-#### 1️⃣ Clone the repository
+#### 1️⃣ Clone the repository and Create .env
 ```sh
 git clone https://github.com/tkcvictor/Comp4212_Project.git
 cd Comp4212_Project
+```
+In the server > .env file, you can find some information. Please use your own API key for future use, as this key may not work in the future.
+```sh
+JWT_SECRET=your_jwt_secret
+STRIPE_SECRET_KEY=your_stripe_secret_key
+MONGO_URI=your_db_uri
 ```
 #### 2️⃣ Install dependencies
 ```sh
