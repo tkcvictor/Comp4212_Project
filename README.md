@@ -1,13 +1,13 @@
-# FoodVilla - Full Stack Food Delivery App
+# O.M.K.DS - Organic meal kit delivery services (OMKDS) App
 ## Delivering flavor with code – one order at a time!
 
 ## Introduction
-**FoodVilla** is a dynamic and responsive food delivery web application built with **React.js**, **Context API**, **Express.js**, and **MongoDB** and **Stripe**. It enables users to browse a curated food menu, add items to cart, and make secure payments via Stripe Checkout. Admins can manage food items and orders through a separate dashboard.
+**OMKDS** is a dynamic and responsive food delivery web application built with **React.js**, **Context API**, **Express.js**, and **MongoDB** and **Stripe**. It enables users to browse a curated food menu, add items to cart, and make secure payments via Stripe Checkout. Admins can manage food items and orders through a separate dashboard.
 
 
 
 ## 🚀 Deployed App
-**Live Demo:** [FoodVilla](https://food-villa-eight-delta.vercel.app/)
+**Live Demo:** 
 
 
 ## 📌 Features
@@ -62,8 +62,8 @@ Ensure you have the following installed:
 ### 📂 Installation & Setup
 #### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/mahesh-pagrut/food-villa.git
-cd food-villa
+git clone https://github.com/
+cd 
 ```
 #### 2️⃣ Install dependencies
 ```sh
@@ -73,7 +73,7 @@ npm install
 ```sh
 npm run dev
 ```
-**Food-Villa will now be running at**  (http://localhost:3000/) 🎉
+**OMKDS will now be running at**  (http://localhost:3000/) 🎉
 
 ### 📸 Using CoinPulse
 
