@@ -91,7 +91,9 @@ npm run server
 For admin
 npm run dev
 ```
-**OMKDS will now be running at**  (http://localhost:5173/) 🎉
+**OMKDS frontend will now be running at**  (http://localhost:5173/) 🎉
+**OMKDS backend will now be running at**  (http://localhost:4000/) 🎉
+**OMKDS admin panel will now be running at**  (http://localhost:5174/) 🎉
 
 ### 📸 Using CoinPulse
 
