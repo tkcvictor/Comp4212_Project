@@ -30,6 +30,7 @@
 - **Stripe** – Secure payment processing
 
 ### 📌 Languages & Styling
+- **HTML – Core programming language.**
 - **JavaScript (ES6) – Core programming language.**
 - **CSS (Custom Styling)** – Responsive UI with modern design.
 - **React Icons** – Intuitive icons for user actions.
@@ -56,7 +57,7 @@
 Ensure you have the following installed:
 - **Node.js** (LTS version recommended)
 - **npm** or **yarn** (for package management)
-- **MongoDB** (Atlas or local)
+- **MongoDB** (Global or local)
 - **Stripe Account** (for API keys)
 
 ### 📂 Installation & Setup
